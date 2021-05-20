@@ -1,4 +1,5 @@
 # appSHNE: The Application of Representation Learning for Semantic-Associated Heterogeneous Networks in Creating Android App Embedding Layers
+### Paper: https://briggs599.github.io/
 
 ## 3.8.2021 updates - Alex
 - wrote EDA notebook that is callable from command line
