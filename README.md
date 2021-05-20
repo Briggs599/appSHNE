@@ -1,4 +1,4 @@
-# DSC180b_project
+# appSHNE: The Application of Representation Learning for Semantic-Associated Heterogeneous Networks in Creating Android App Embedding Layers
 
 ## 3.8.2021 updates - Alex
 - wrote EDA notebook that is callable from command line
